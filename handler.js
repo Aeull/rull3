@@ -131,13 +131,13 @@ return buffer
                      }
 
 	const fdoc = {key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: `*HIDETAG!*`,jpegThumbnail: global.thumb}}}
-	const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6283102650464-1589321480@g.us","inviteCode": "m","groupName": "Crizzy Bot", "caption": `© Fadhil Graphy`, 'jpegThumbnail': global.thumb}}}
+	const fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6283102650464-1589321480@g.us","inviteCode": "m","groupName": "ArullBotz", "caption": `© Sahrull`, 'jpegThumbnail': global.thumb}}}
     const fvideo = {key: { fromMe: false,participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6283102650464-1589321480@g.us" } : {}) },message: { "videoMessage": { "title":`*AUTO DOWNLOAD AUDIO YOUTUBE*`, "h": `Hmm`,'seconds': '10000000⁰0', 'caption': `*AUTO DOWNLOAD AUDIO YOUTUBE*`, 'jpegThumbnail': global.thumb}}}
 
 		//TEMPLATE BUTTON!
 		const buttonsDefault = [
-			//{ callButton: { displayText: `Call Owner!`, phoneNumber: `+6285849261085` } },
-			{ urlButton: { displayText: `github!`, url : `https://github.com/FebriansyahXd` } },
+			//{ callButton: { displayText: `Call Owner!`, phoneNumber: `+6285822347348` } },
+			{ urlButton: { displayText: `Join GC Bot`, url : `https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe` } },
 			{ quickReplyButton: { displayText: `🧑 owner`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `💰 donate`, id: `${prefix}donate` } },
 			{ quickReplyButton: { displayText: `🗼 ping bot`, id: `${prefix}pingbot` } }
@@ -229,9 +229,9 @@ switch(command){
 			case'menu':
 			case'help': {
 				footerr = `Peringatan : Dilarang spam command/apapun ke bot!, dikarena mengakibatkan bot eror!\n© 2022 Fadhil Graphy`
-				anu = `${fke}Hi ${m.pushName} 👋, i'am crizzy!${fke}
+				anu = `${fke}Hi ${m.pushName} 👋, saya ArullBotz${fke}
 
-╭──❲ *CRIZZY BOT - MD* ❳
+╭──❲ *ArullBotz* ❳
 │
 │ *Info*
 │> *Nama :* _「 ${m.pushName} 」_
@@ -348,12 +348,12 @@ switch(command){
 					btn = [{
                                 urlButton: {
                                     displayText: 'ꜰᴏʟʟᴏᴡ ɪɴꜱᴛᴀɢʀᴀᴍ',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/sahrulwara_____'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'ɢʀᴏᴜᴘ ᴡʜᴀᴛꜱᴀᴘᴘ',
-                                    url: 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'
+                                    url: 'https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -373,7 +373,7 @@ switch(command){
                             }]
 
 				conn.send5ButLoc(from, anu, footerr, global.thumb, btn)
-				conn.sendMessage(from, {text : `*This is an ad*\n\n•───────────•\n${jsn[0].setting}\n•───────────•\n\n_© 2022 fdhlgrphy.com_`}, {quoted :{
+				conn.sendMessage(from, {text : `*This is an ad*\n\n•───────────•\n${jsn[0].setting}\n•───────────•\n\n_© 2022 ArullBotz`}, {quoted :{
 				key: { fromMe: false,
 				participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "6283102650464-1589321480@g.us" } : {})},
 				message: { "extendedTextMessage": {
@@ -389,7 +389,7 @@ switch(command){
 			case 'credit':
 			case 'info':{
 				//MASIH LANGKA OM HEHE
-				const _0x337fb1=_0x31eb;function _0x31eb(_0x451bc8,_0x5de346){const _0x115eea=_0x115e();return _0x31eb=function(_0x31ebf4,_0x1f27c6){_0x31ebf4=_0x31ebf4-0x166;let _0x4b4588=_0x115eea[_0x31ebf4];return _0x4b4588;},_0x31eb(_0x451bc8,_0x5de346);}(function(_0x3cea9d,_0x2c4fc4){const _0x5ee033=_0x31eb,_0x1b45d1=_0x3cea9d();while(!![]){try{const _0x442b6b=parseInt(_0x5ee033(0x17a))/0x1*(-parseInt(_0x5ee033(0x17d))/0x2)+parseInt(_0x5ee033(0x178))/0x3+parseInt(_0x5ee033(0x16a))/0x4*(parseInt(_0x5ee033(0x179))/0x5)+parseInt(_0x5ee033(0x170))/0x6*(-parseInt(_0x5ee033(0x166))/0x7)+parseInt(_0x5ee033(0x169))/0x8*(-parseInt(_0x5ee033(0x173))/0x9)+parseInt(_0x5ee033(0x17c))/0xa+-parseInt(_0x5ee033(0x175))/0xb;if(_0x442b6b===_0x2c4fc4)break;else _0x1b45d1['push'](_0x1b45d1['shift']());}catch(_0x227f64){_0x1b45d1['push'](_0x1b45d1['shift']());}}}(_0x115e,0xc4f87));const _0x4714c9=_0x3850;function _0x3850(_0x41782f,_0x1e7787){const _0x28f64a=_0x4dc5();return _0x3850=function(_0x2acaf2,_0x105999){_0x2acaf2=_0x2acaf2-0xe3;let _0x2082b8=_0x28f64a[_0x2acaf2];return _0x2082b8;},_0x3850(_0x41782f,_0x1e7787);}(function(_0x4cfa25,_0x45733f){const _0x2dfc4c=_0x31eb,_0x52a914=_0x3850,_0x1bf574=_0x4cfa25();while(!![]){try{const _0xdac033=-parseInt(_0x52a914(0xea))/0x1*(parseInt(_0x52a914(0xe4))/0x2)+parseInt(_0x52a914(0xee))/0x3+-parseInt(_0x52a914(0xeb))/0x4*(-parseInt(_0x52a914(0xf2))/0x5)+parseInt(_0x52a914(0xe8))/0x6+parseInt(_0x52a914(0xe3))/0x7+parseInt(_0x52a914(0xe6))/0x8*(parseInt(_0x52a914(0xf0))/0x9)+-parseInt(_0x52a914(0xf3))/0xa;if(_0xdac033===_0x45733f)break;else _0x1bf574[_0x2dfc4c(0x17f)](_0x1bf574['shift']());}catch(_0x4873c5){_0x1bf574[_0x2dfc4c(0x17f)](_0x1bf574['shift']());}}}(_0x4dc5,0x50733));function _0x4dc5(){const _0x2ed163=_0x31eb,_0x3763a6=['8432660EGOBKn',_0x2ed163(0x17e),_0x2ed163(0x171),'7900','8afIzaI',_0x2ed163(0x177),_0x2ed163(0x176),_0x2ed163(0x174),_0x2ed163(0x17b),'4hhcskV',_0x2ed163(0x16c),_0x2ed163(0x167),_0x2ed163(0x16b),_0x2ed163(0x16e),_0x2ed163(0x16d),_0x2ed163(0x16f),_0x2ed163(0x168)];return _0x4dc5=function(){return _0x3763a6;},_0x4dc5();}let message={'requestPaymentMessage':{'currencyCodeIso4217':_0x337fb1(0x174),'amount1000':_0x4714c9(0xef),'requestFrom':m[_0x4714c9(0xe7)],'noteMessage':{'extendedTextMessage':{'text':'*SC\x20/\x20CREDITS\x20/\x20INFO*\x0a\x0a*Script\x20:*\x20https://github.com/fdhlgrphy/Crizzy-Bot\x0a*Base\x20:*\x20Base\x20From\x20Hazn\x0a\x0a*Donate\x20:*\x20083102650464\x20(Dana,\x20Shopee\x20Pay,\x20GoPay,\x20OvO)\x0aDont\x20Forget\x20Donate\x0a\x0a*Developer\x20:*\x0a_Fadhil\x20Graphy_\x0a_Affis\x20Junianto_\x0a_Hazn_\x0a\x0a*Thangks\x20To\x20:*\x0a_Ferdi\x20Z_\x0a_FRM\x20Developer_\x0a_DikaArdnt_\x0a_Fatih\x20Arridho_\x0a_Rzky\x20Fdlh_\x0a_Febriansyah\x20XD_\x0a_Arasya_\x0a\x0a*Team\x20:*\x0aPCS\x0aZacros\x0a\x0a','footer':_0x4714c9(0xed),'contextInfo':{'forwardingScore':0x270f,'isForwarded':!![]}}},'expiryTimestamp':_0x4714c9(0xf1),'amount':{'value':_0x4714c9(0xe5),'currencyCode':_0x4714c9(0xe9)}}};function _0x115e(){const _0xd12c53=['117BSIBtY','USD','24235145rSVCvy','2062482aOzyXe','sender','4321767ymSmoA','15LULidQ','785228OpaFWf','2DkFbiy','16042880LLfTBt','2sWgXcs','1611211dPKTjf','push','35HuIiOz','testes','198675eZhlqB','202776zYrHiG','1856444TcpGLg','1103733VKDvGL','relayMessage','2844891VJHjSF','199990','1660787819','374982zsIWos','124876dTSVkM','chat'];_0x115e=function(){return _0xd12c53;};return _0x115e();}conn[_0x4714c9(0xec)](m[_0x337fb1(0x172)],message,{'messageId':generateMessageID()});
+				const _0x337fb1=_0x31eb;function _0x31eb(_0x451bc8,_0x5de346){const _0x115eea=_0x115e();return _0x31eb=function(_0x31ebf4,_0x1f27c6){_0x31ebf4=_0x31ebf4-0x166;let _0x4b4588=_0x115eea[_0x31ebf4];return _0x4b4588;},_0x31eb(_0x451bc8,_0x5de346);}(function(_0x3cea9d,_0x2c4fc4){const _0x5ee033=_0x31eb,_0x1b45d1=_0x3cea9d();while(!![]){try{const _0x442b6b=parseInt(_0x5ee033(0x17a))/0x1*(-parseInt(_0x5ee033(0x17d))/0x2)+parseInt(_0x5ee033(0x178))/0x3+parseInt(_0x5ee033(0x16a))/0x4*(parseInt(_0x5ee033(0x179))/0x5)+parseInt(_0x5ee033(0x170))/0x6*(-parseInt(_0x5ee033(0x166))/0x7)+parseInt(_0x5ee033(0x169))/0x8*(-parseInt(_0x5ee033(0x173))/0x9)+parseInt(_0x5ee033(0x17c))/0xa+-parseInt(_0x5ee033(0x175))/0xb;if(_0x442b6b===_0x2c4fc4)break;else _0x1b45d1['push'](_0x1b45d1['shift']());}catch(_0x227f64){_0x1b45d1['push'](_0x1b45d1['shift']());}}}(_0x115e,0xc4f87));const _0x4714c9=_0x3850;function _0x3850(_0x41782f,_0x1e7787){const _0x28f64a=_0x4dc5();return _0x3850=function(_0x2acaf2,_0x105999){_0x2acaf2=_0x2acaf2-0xe3;let _0x2082b8=_0x28f64a[_0x2acaf2];return _0x2082b8;},_0x3850(_0x41782f,_0x1e7787);}(function(_0x4cfa25,_0x45733f){const _0x2dfc4c=_0x31eb,_0x52a914=_0x3850,_0x1bf574=_0x4cfa25();while(!![]){try{const _0xdac033=-parseInt(_0x52a914(0xea))/0x1*(parseInt(_0x52a914(0xe4))/0x2)+parseInt(_0x52a914(0xee))/0x3+-parseInt(_0x52a914(0xeb))/0x4*(-parseInt(_0x52a914(0xf2))/0x5)+parseInt(_0x52a914(0xe8))/0x6+parseInt(_0x52a914(0xe3))/0x7+parseInt(_0x52a914(0xe6))/0x8*(parseInt(_0x52a914(0xf0))/0x9)+-parseInt(_0x52a914(0xf3))/0xa;if(_0xdac033===_0x45733f)break;else _0x1bf574[_0x2dfc4c(0x17f)](_0x1bf574['shift']());}catch(_0x4873c5){_0x1bf574[_0x2dfc4c(0x17f)](_0x1bf574['shift']());}}}(_0x4dc5,0x50733));function _0x4dc5(){const _0x2ed163=_0x31eb,_0x3763a6=['8432660EGOBKn',_0x2ed163(0x17e),_0x2ed163(0x171),'7900','8afIzaI',_0x2ed163(0x177),_0x2ed163(0x176),_0x2ed163(0x174),_0x2ed163(0x17b),'4hhcskV',_0x2ed163(0x16c),_0x2ed163(0x167),_0x2ed163(0x16b),_0x2ed163(0x16e),_0x2ed163(0x16d),_0x2ed163(0x16f),_0x2ed163(0x168)];return _0x4dc5=function(){return _0x3763a6;},_0x4dc5();}let message={'requestPaymentMessage':{'currencyCodeIso4217':_0x337fb1(0x174),'amount1000':_0x4714c9(0xef),'requestFrom':m[_0x4714c9(0xe7)],'noteMessage':{'extendedTextMessage':{'text':'*SC\x20/\x20CREDITS\x20/\x20INFO*\x0a\x0a*Script\x20:*\x20Diyt\x0a*Base\x20:*\x20Base\x20From\x20Hazn\x0a\x0a*Donate\x20:*\x20083102650464\x20(Dana,\x20Shopee\x20Pay,\x20GoPay,\x20OvO)\x0aDont\x20Forget\x20Donate\x0a\x0a*Developer\x20:*\x0a_Sahrull\x20Wara\x0a_Affis\x20Junianto_\x0a_Hazn_\x0a\x0a*Thangks\x20To\x20:*\x0a_Ferdi\x20Z_\x0a_FRM\x20Developer_\x0a_DikaArdnt_\x0a_Fatih\x20Arridho_\x0a_Rzky\x20Fdlh_\x0a_Febriansyah\x20XD_\x0a_Arasya_\x0a\x0a*Team\x20:*\x0aPCS\x0aZacros\x0a\x0a','footer':_0x4714c9(0xed),'contextInfo':{'forwardingScore':0x270f,'isForwarded':!![]}}},'expiryTimestamp':_0x4714c9(0xf1),'amount':{'value':_0x4714c9(0xe5),'currencyCode':_0x4714c9(0xe9)}}};function _0x115e(){const _0xd12c53=['117BSIBtY','USD','24235145rSVCvy','2062482aOzyXe','sender','4321767ymSmoA','15LULidQ','785228OpaFWf','2DkFbiy','16042880LLfTBt','2sWgXcs','1611211dPKTjf','push','35HuIiOz','testes','198675eZhlqB','202776zYrHiG','1856444TcpGLg','1103733VKDvGL','relayMessage','2844891VJHjSF','199990','1660787819','374982zsIWos','124876dTSVkM','chat'];_0x115e=function(){return _0xd12c53;};return _0x115e();}conn[_0x4714c9(0xec)](m[_0x337fb1(0x172)],message,{'messageId':generateMessageID()});
            	 }
            	 break
 			case 'donasi': 
@@ -401,15 +401,13 @@ switch(command){
 					 let pes = `*Hallo kak, mau invite bot/donasi ya*
 					
 *⚠️ Nomor :*
-(Dana, OVO, GoPay, ShopeePay)
-	╰≻ 083102650464
-(Telkomsel)
-	╰≻ 082135724604
-(Qris)
-	╰≻ Click the button below. 
+(Dana)
+	╰≻ 085822347348
+(Indosat)
+	╰≻ 085822347348
 
 *💯 Keuntungan :*
-> Add ke group max 2 group
+> Add ke group max 1 group
 > - 
 
 *📝 Note :*
@@ -420,13 +418,13 @@ switch(command){
 *❗ Penting :*
 Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 						`
-					gambar = `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkjAJhYezm4h6k1AJ6qfreGkaRdBcR7UHMw&usqp=CAU`
+					gambar = `https://telegra.ph/file/c95320c9660ee113943cc.jpg`
 
 				 but = [
-                    {buttonId: `qriscrizzy`, buttonText: {displayText: 'Pay With QRIS'}, type: 1},
+                    {buttonId: `qrisdana`, buttonText: {displayText: 'Pay With QRIS DANA'}, type: 1},
                     {buttonId: `owner`, buttonText: {displayText: 'Confirm to owner'}, type: 2} 
                 ]
-					conn.sendMessage(from, { caption: pes, image: { url: 'https://telegra.ph/file/91e21669655c0116b70a4.jpg' } , buttons: but, footer: `Thank you for your help and support to this bot, hopefully the sustenance will be smoother. \n For more information, please contact the owner!\n\n© 2022 Fadhil Graphy` })
+					conn.sendMessage(from, { caption: pes, image: { url: 'https://telegra.ph/file/c95320c9660ee113943cc.jpg' } , buttons: but, footer: `Thank you for your help and support to this bot, hopefully the sustenance will be smoother. \n For more information, please contact the owner!\n\n© 2022 Sahrull` })
 					} 
 				break
 			case 'qriscrizzy':{
@@ -434,7 +432,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 				bta = [
                  	   {buttonId: `owner`, buttonText: {displayText: 'Confirm to owner'}, type: 1} 
              	   ]
-						conn.sendMessage(from, { caption: captionQris, image: { url: 'https://telegra.ph/file/48e23a5d0b11096d636c2.jpg' } , buttons: bta, footer: `Thank you for your help and support to this bot, hopefully the sustenance will be smoother. \n\n© 2022 Fadhil Graphy` })
+						conn.sendMessage(from, { caption: captionQris, image: { url: 'https://telegra.ph/file/c95320c9660ee113943cc.jpg' } , buttons: bta, footer: `Thank you for your help and support to this bot, hopefully the sustenance will be smoother. \n\n© 2022 Sahrull` })
 						} 
 			 
 				break
@@ -622,7 +620,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
   				conn.sendMessage(from, {
     				caption: cap, image: {
       				url: feta.data.qris
-    				}, buttons: buto, footer: `© 2022\nFadhil Graphy\nAffis Junianto`
+    				}, buttons: buto, footer: `© 2022\nSahrull`
   				})
 				}
 				console.log(feta)
@@ -798,7 +796,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
                 let search = await yts(text)
                 let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
                 let buttons = [
-                	{ urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/fdhlgrphy` } },
+                	{ urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/sahrulwara_____` } },
                     { quickReplyButton: { displayText: `𝐀𝐮𝐝𝐢𝐨`, id: `ytmp3 ${anu.url}` } },
                     { quickReplyButton: { displayText: `𝐕𝐢𝐝𝐞𝐨`, id: `ytmp4 ${anu.url}` } }
                 ]
@@ -854,7 +852,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
                 let resmed = await yta(text, quality)
                 if (resmed.filesize >= 100000) return m.reply('File Melebihi Batas '+util.format(resmed))
                 btnYts = [
-                    { urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/fdhlgrphy` } },
+                    { urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/sahrulwara_____` } },
                     { quickReplyButton: { displayText: `𝐀𝐮𝐝𝐢𝐨`, id: `resaudkunci ${q}` } },
                     { quickReplyButton: { displayText: `𝐕𝐢𝐝𝐞𝐨`, id: `resvidkunci ${q}` } }
                 ]
@@ -909,12 +907,12 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 				let saking = q.split('|')[1] ? q.split('|')[1] : q
 				let pesan = q.split('|')[2] ? q.split('|')[2] : ''
 				if (pesan.length < 1) return m.reply(`Harus di isi semua! ex : menfess 62831xxxxxxxx|orang|hallo kamu`)
-				 let teksnya = `Hai kak ada Menfess nih!!\n─────────────\n*Crizzy-Bot*\n─────────────\n\nDari : _${saking}_ \nPesan : _${pesan}_ `
+				 let teksnya = `Hai kak ada Menfess nih!!\n─────────────\n*ArullBotz*\n─────────────\n\nDari : _${saking}_ \nPesan : _${pesan}_ `
 				header = 'hayyy'
 					gambar = `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkjAJhYezm4h6k1AJ6qfreGkaRdBcR7UHMw&usqp=CAU`
 
 				 but = [
-					{ urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/fdhlgrphy` } },
+					{ urlButton: { displayText: `𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐔𝐬!`, url : `https://instagram.com/sahrulwara_____` } },
                     { quickReplyButton: { displayText: `𝐓𝐞𝐫𝐢𝐦𝐚 𝐌𝐞𝐧𝐟𝐞𝐬𝐬`, id: `menfesconfirm ${m.sender}` } },
                     { quickReplyButton: { displayText: `𝐊𝐢𝐫𝐢𝐦 𝐌𝐞𝐧𝐟𝐞𝐬𝐬𝐦𝐮`, id: `Menfess` } }
                 		]
@@ -931,9 +929,9 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 			case 'tt':
 			    if (!text) return m.reply('masukkan link nya')
 				let p = await fdl.downloader.tiktok(q)
-				let nih = ` *TIKTOK DOWNLOADER BY CRIZZY-BOT*
+				let nih = ` *TIKTOK DOWNLOADER BY Sahrull*
 
-				©️ *Creator:* Fadhil Graphy
+				©️ *Creator:* Sahrull
 				📌 *Title:* ${p.title}
 				👤 *Author:* ${p.author}
 
@@ -959,7 +957,7 @@ Konfirmasi pembayaran mu dengan menunjjukan bukti transfer kepada owner!
 				let aud = await fdl.downloader.tiktok(text)
 				let cap = ` *TIKTOK AUDIO*
 
-				©️ *Creator:* Fadhil Graphy
+				©️ *Creator:* Sahrull
 				📌 *Title:* ${aud.title}
 				👤 *Author:* ${aud.author}
 
@@ -1059,7 +1057,7 @@ break*/
 			    let btn = [{
                                 urlButton: {
                                     displayText: '𝑺𝑼𝑷𝑶𝑹𝑻 𝑼𝑺!',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/sahrulwara_____'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1090,7 +1088,7 @@ break*/
                     let btn = [{
                                 urlButton: {
                                     displayText: '𝑺𝑼𝑷𝑶𝑹𝑻 𝑼𝑺!',
-                                    url: 'https://instagram.com/fdhlgrphy'
+                                    url: 'https://instagram.com/sahrulwara_____'
                                 }
                             }, {
                                 quickReplyButton: {
