@@ -10,30 +10,30 @@ global.Api = {
 global.ApiKey = 'coderevolution' //JIKA INGIN MENDAPATKAN KOMISI DAFTAR DI HTTPS://AMPIBISMM.MY.ID UNTUK MENDAPATKAN APIKEY!
 
 global.smm = {
-  nomor : '6283102650464',
-  atasnama : 'Ahmad Nur Fadhil'
+  nomor : '6285822347348',
+  atasnama : 'Arull'
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
+global.owner = ['6285822347348',"6285822347348"]
+global.premium = ['6285822347348']
 global.sponsor = 'no sponsors in:('
-global.packname = 'Crizzy-Bot'
-global.footer = '© 2022 Fadhil Graphy'
-global.author = 'Owner : Fadhil Graphy\nIg1 : @fdhlgrphy\nIg2 : @nr.fdhl__'
+global.packname = 'ArullBotz'
+global.footer = '© 2022 ArullBotz'
+global.author = 'Owner : Arull\nIg1 : @sahrulwara_____'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
-		wait: 'please wait a moment, processing data...',
+		wait: '*Wait...*',
 		den:'*Sorry You Not Register Yet...*\n\n*.reg* <name>\n*To Regis/Login*',
-		proc:'Loading Please Wait..',
-		error:'Error :(',
-		success:'Success bang!',
-		repiar:'This Feature Maintace!',
-		botadm:'Jadiin gw admin dulu!',
-		admin:'Khusus admin woi!',
-		done:'Done!',
-		gc:'Only Group Allowed',
-		owner:'Only Owner Allowed'
+		proc:'*Loading Please Wait..*',
+		error:'*Error :(*',
+		success:'*Success bang!*',
+		repiar:'*This Feature Maintace!*',
+		botadm:'*Jadiin bot sbg admin dulu!*',
+		admin:'*Khusus admin!*',
+		done:'*Done!*',
+		gc:'*Only Group Allowed*',
+		owner:'*Only Owner Allowed*'
 }
 
 global.thumb = fs.readFileSync('./lib/crizzy.jpg')
